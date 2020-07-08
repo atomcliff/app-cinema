@@ -1,0 +1,1 @@
+.appMovie-search__row{margin:0 -20px;display:flex;flex-wrap:wrap}.appMovie-search__col{margin:20px;flex-basis:calc(25% - 40px)}.appMovie-search__card img{width:100%}@media screen and (max-width:768px){.appMovie-search__col{flex-basis:calc(50% - 40px)}}@media screen and (max-width:576px){.appMovie-search__col{flex-basis:calc(100% - 40px)}}
